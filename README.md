@@ -8,11 +8,11 @@
 
 ## Instructions:
 
-1. Clone the repository:
+### Step 1: Clone the repository:
    
 - git clone git@github.com:Zizi1067/Impumelelo-High-School.git
 
-2. Navigate to the root folder:
+### Step 2: Navigate to the root folder:
 
 - Root Folder:
 
@@ -22,7 +22,7 @@
 
   - npm install
 
-3. Navigate to the client folder:
+### Step 3: Navigate to the client folder:
 
 cd client
 
@@ -30,13 +30,13 @@ cd client
 
 npm install
 
-4. Run the server:
+### Step 4: Run the server:
 
 - Root Folder:
 
 nodemon server
 
-5. Run the web app:
+### Step 5: Run the web app:
 
 - Client Folder:
 
