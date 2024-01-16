@@ -42,6 +42,8 @@ nodemon server
 
 npm start
 
+---
+
 1. **Understanding the pain points:**
 
 - Due to excessive administrative actions, the Impumelelo High School preferred to move from a paper base bus registration system to an online bus registration system.
