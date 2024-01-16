@@ -8,6 +8,11 @@
 
 ## Instructions:
 
+**NOTE:
+Enable scripts with this command in powershell:
+
+Set-ExecutionPolicy RemoteSigned
+
 ### Step 1: Clone the repository:
    
 - git clone git@github.com:Zizi1067/Impumelelo-High-School.git
