@@ -8,7 +8,7 @@
 
 ## Instructions:
 
-**NOTE:
+** NOTE:
 Enable scripts with this command in powershell:
 
 Set-ExecutionPolicy RemoteSigned
