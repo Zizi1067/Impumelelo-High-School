@@ -1,41 +1,51 @@
 # Impumelelo-High-School
 
-- Prerequisites:
-	- NPM & Node.js
-	- React JS
-	- Git
+Prerequisites:
 
-- Instructions :
+NPM & Node.js
+React JS
+Git
+Instructions:
 
-	- Clone using the following repo link
+1. Clone the repository:
 
-	git clone git@github.com:Zizi1067/Impumelelo-High-School.git
+bash
+Copy code
+git clone git@github.com:Zizi1067/Impumelelo-High-School.git
+2. Navigate to the project folder:
 
-	- Go to the project folder and run npm install
+Root Folder:
 
-	Root Folder:
+bash
+Copy code
+cd Impumelelo-High-School
+Install server dependencies:
 
-	cd Impumelelo-High-School
-	npm install
+bash
+Copy code
+npm install
+Client Folder:
 
-	AND
+bash
+Copy code
+cd client
+Install client dependencies:
 
-	Client Folder:
+bash
+Copy code
+npm install
+3. Run the application:
 
-	cd client
-	npm install
+Root Folder:
 
-	- Now run your app
-   
-	Root Folder:
+bash
+Copy code
+nodemon server
+Client Folder:
 
-	nodemon server
-
-	AND
-
-	Client Folder:
-
-	npm start
+bash
+Copy code
+npm start
 
 1. **Understanding the pain points:**
 
