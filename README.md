@@ -1,7 +1,9 @@
 # Impumelelo-High-School
 
-##
-https://youtu.be/r1mDn79N9P0
+## Preview
+
+![mqdefault](https://github.com/Zizi1067/Impumelelo-High-School/assets/96830330/e769099c-59b2-419f-ac78-59f82f726fe2)
+
 
 ## Prerequisites:
 
