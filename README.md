@@ -1,7 +1,8 @@
 # Impumelelo-High-School
 
 ## Preview
-https://voe.sx/pngr1obykbks
+
+https://youtu.be/LU3QjFuvfvg
 
 ## Prerequisites:
 
